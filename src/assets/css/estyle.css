@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(180, 180, 180);
+    background-image: url("../imgs/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 30vh;
+    padding: 10rem;
+}
